@@ -36,7 +36,7 @@ const Footer = () => {
         <p>
           Copyright&nbsp;&copy;&nbsp;2020&nbsp;-&nbsp;{new Date().getFullYear()}
           &nbsp;
-          <CustomLink to="https://199681.xyz/" text="李勇Oliver" />
+          <CustomLink to="https://two.199681.xyz/" text="李勇Oliver" />
           {siteIcp ? (
             <React.Fragment>
               &nbsp;|&nbsp;
